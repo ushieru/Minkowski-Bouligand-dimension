@@ -1,5 +1,7 @@
-from .minkowski_bouligand_dimension import MinkowskiBouligandDimension
 
-minkowskiBouligandDimension = MinkowskiBouligandDimension(None)
-
-minkowskiBouligandDimension.test()
+try:
+    f = open("test.txt", "w+")
+    for i in range(10):
+        f.write("This is asd %d\r\n" % (i+1))
+finally:
+    f.close()

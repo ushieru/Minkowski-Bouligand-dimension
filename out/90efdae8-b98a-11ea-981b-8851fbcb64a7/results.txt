@@ -1,0 +1,40 @@
+img: mexico1.png 
+Total boxes: 10000
+Boxes Touched: 532
+log(N): 6.2766434893416445
+log(x): 9.210340371976184
+
+------------------------------
+
+img: mexico2.png 
+Total boxes: 14400
+Boxes Touched: 667
+log(N): 6.502790045915623
+log(x): 9.574983485564092
+
+------------------------------
+
+img: mexico3.png 
+Total boxes: 19600
+Boxes Touched: 765
+log(N): 6.639875833826536
+log(x): 9.883284845218608
+
+------------------------------
+
+img: mexico4.png 
+Total boxes: 25600
+Boxes Touched: 881
+log(N): 6.78105762593618
+log(x): 10.150347630467653
+
+------------------------------
+
+img: mexico5.png 
+Total boxes: 32400
+Boxes Touched: 1077
+log(N): 6.981934677156389
+log(x): 10.38591370178042
+
+------------------------------
+
