@@ -1,0 +1,5 @@
+from .minkowski_bouligand_dimension import MinkowskiBouligandDimension
+
+minkowskiBouligandDimension = MinkowskiBouligandDimension(None)
+
+minkowskiBouligandDimension.test()
